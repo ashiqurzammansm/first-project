@@ -170,3 +170,7 @@ services:
 
 This structure provides a solid foundation for building scalable, maintainable, and production-ready web applications using the MERN stack with Next.js.
 
+
+
+devvvv
+
